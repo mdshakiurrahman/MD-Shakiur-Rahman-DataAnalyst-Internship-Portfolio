@@ -27,7 +27,7 @@ Explored business insights, performed deeper analysis, and worked on dashboard d
 ### Task 4: Data Storytelling & Statistical Validation
 Worked on presenting data-driven insights and statistical hypothesis testing to support evidence-based conclusions.
 
-[View Task 4 Repository](PASTE_TASK_4_REPOSITORY_URL_HERE)
+[View Task 4 Repository](https://github.com/mdshakiurrahman/Task_4_Data_Storytelling_Statistical_Validation/tree/main)
 
 ## Skills & Tools
 
